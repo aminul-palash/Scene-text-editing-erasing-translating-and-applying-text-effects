@@ -36,7 +36,7 @@ This repository contains  Articles , Papers and Repositories for text font attri
 [Source](https://openaccess.thecvf.com/content_CVPR_2019/papers/Men_DynTypo_Example-Based_Dynamic_Text_Effects_Transfer_CVPR_2019_paper.pdf) | Code
 13. GlyphGAN: Style-consistent font generation based on generative adversarial network by Hideaki Hayashi, Kohtaro Abe, Seiichi Uchida. 2019<br>
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0950705119303740) | Code
-14. Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements by Yuto Shinahara; Takuro Karamatsu; Daisuke Harada; Kota Yamaguchi; Seiichi Uchida. IEEE 2019
+14. Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements by Yuto Shinahara; Takuro Karamatsu; Daisuke Harada; Kota Yamaguchi; Seiichi Uchida. IEEE 2019<br>
 [Source](https://ieeexplore.ieee.org/abstract/document/8978038) | Code
 15.Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements by Yuto Shinahara; Takuro Karamatsu; Daisuke Harada; Kota Yamaguchi; Seiichi Uchida. IEEE 2019 <br>
 [Source](https://ieeexplore.ieee.org/abstract/document/8978038) | Code
@@ -56,7 +56,7 @@ This repository contains  Articles , Papers and Repositories for text font attri
 [Source](https://arxiv.org/abs/1810.03767) | Code
 23. Text effects transfer via distribution-aware texture synthesis by ShuaiYang, Jiaying Liu, Zhouhui Lian, Zongming Guo. 2018 <br>
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1077314218301139) | Code
-24. Supplementary MaterialforMulti-Content GAN for Few-Shot Font Style Transfer. CVF 2018
+24. Supplementary MaterialforMulti-Content GAN for Few-Shot Font Style Transfer. CVF 2018<br>
 [Source](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/2342-supp.pdf) | Code
 25.  A Common Framework for Interactive Texture Transfer by Yifang Men, Zhouhui Lian, Yingmin Tang, Jianguo Xiao. CVF 2018<br>
 [Source](https://openaccess.thecvf.com/content_cvpr_2018/html/Men_A_Common_Framework_CVPR_2018_paper.html) | Code

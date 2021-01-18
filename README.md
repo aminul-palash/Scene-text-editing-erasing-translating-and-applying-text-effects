@@ -30,7 +30,10 @@ This repository contains  Articles , Papers and Repositories for text font attri
 [Source](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Typography_With_Decor_Intelligent_Text_Style_Transfer_CVPR_2019_paper.html) | Code
 12. DynTypo: Example-based Dynamic Text Effects Transfer by Yifang Men, Zhouhui Lian∗, Yingmin Tang, Jianguo Xiao. CVF 2019 <br>
 [Source](https://openaccess.thecvf.com/content_CVPR_2019/papers/Men_DynTypo_Example-Based_Dynamic_Text_Effects_Transfer_CVPR_2019_paper.pdf) | Code
-13. 
+13. GlyphGAN: Style-consistent font generation based on generative adversarial network by Hideaki Hayashi, Kohtaro Abe, Seiichi Uchida. 2019<br>
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0950705119303740) | Code
+14.
+
 ## Journals 
 1. Few-Shot Text Style Transfer via Deep Feature Similarity by Anna Zhu; Xiongbo Lu; Xiang Bai; Seiichi Uchida; Brian Kenji Iwana; Shengwu Xiong. IEEE 2020 <br>
 [Source](https://ieeexplore.ieee.org/document/9098082) | Code

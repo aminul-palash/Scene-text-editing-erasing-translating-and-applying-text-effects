@@ -48,6 +48,8 @@ This repository contains  Articles , Papers and Repositories for text font attri
 [Source](https://openaccess.thecvf.com/content_cvpr_2018/html/Azadi_Multi-Content_GAN_for_CVPR_2018_paper.html) | Code
 19. Generating Handwritten Chinese Characters Using CycleGAN by Bo Chang; Qiong Zhang; Shenyi Pan; Lili Meng. IEEE 2018<br>
 [Source](https://ieeexplore.ieee.org/abstract/document/8354132) | Code
+31. Font Recognition in Natural Images via Transfer Learning by Yizhi WangZhouhui LianEmail authorYingmin TangJianguo Xiao. 2018
+[Source](https://link.springer.com/chapter/10.1007/978-3-319-73603-7_19) | Code
 20. Separating Style and Content for Generalized Style Transfer by Yexun Zhang, Ya Zhang, Wenbin Cai, Jie Chang. Arxiv 2018<br>
 [Source](https://arxiv.org/abs/1711.06454) | Code
 21. TET-GAN: Text Effects Transfer via Stylization and Destylization by Shuai Yang, Jiaying Liu, Wenjing Wang, Zongming Guo. Arxiv 2018<br>
@@ -70,6 +72,9 @@ This repository contains  Articles , Papers and Repositories for text font attri
 [Source](https://arxiv.org/abs/1606.09002) | Code
 29. DeepFont: Identify Your Font from An Image Zhangyang Wang, Jianchao Yang, Hailin Jin, Eli Shechtman, Aseem Agarwala, Jonathan Brandt, Thomas S. Huang. 2015<br>
 [Source](https://arxiv.org/abs/1507.03196) | Code
+30. Font Acknowledgment and Character Extraction of Digital and Scanned Images by Syed Muhammad Arsalan Bashir. 2013<br>
+[Source](https://arxiv.org/abs/1305.4064) | Code
+
   
 
 

@@ -24,7 +24,9 @@ This repository contains  Articles , Papers and Repositories for text font attri
 2. Editing Text in the Wild Liang Wu, Chengquan Zhang, Jiaming Liu, Junyu Han, Jingtuo Liu, Errui Ding and Xiang Bai. 2019 <br>
 [Source](https://arxiv.org/abs/1908.03047) | [Code](https://github.com/youdao-ai/SRNet)
 ## Journals 
-1. Improving Font Effect Generation based on Pyramid Style Feature by Feiyu Zhang, Yi Yang, WeixingHuang,Guigang Zhang,and JianWang. 2020 <br>
+1. Few-Shot Text Style Transfer via Deep Feature Similarity by Anna Zhu; Xiongbo Lu; Xiang Bai; Seiichi Uchida; Brian Kenji Iwana; Shengwu Xiong. IEEE 2020
+[Source](https://ieeexplore.ieee.org/document/9098082)
+2. Improving Font Effect Generation based on Pyramid Style Feature by Feiyu Zhang, Yi Yang, WeixingHuang,Guigang Zhang,and JianWang. 2020 <br>
 [Source](https://qrs20.techconf.org/download/QRS-IJPE/18_Improving%20Font%20Effect%20Generation%20based%20on%20Pyramid%20Style%20Feature.pdf)
 ## Research Article
 1. Exploring Font-independent Features for Scene Text Recognition by Yizhi Wang, Zhouhui  Lian. 2020 <br>

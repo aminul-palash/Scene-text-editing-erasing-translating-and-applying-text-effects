@@ -62,7 +62,7 @@ This repository contains  Articles , Papers and Repositories for text font attri
 [Source](https://openaccess.thecvf.com/content_cvpr_2018/html/Men_A_Common_Framework_CVPR_2018_paper.html) | Code
 26. Convolutional Neural Networks for Font Classification by Chris Tensmeyer; Daniel Saunders; Tony Martinez. IEEE 2017<br>
 [Source](https://ieeexplore.ieee.org/document/8270095) | Code
-26.Awesome Typography: Statistics-Based Text Effects TransferShuai Yang, Jiaying Liu∗, Zhouhui Lian and Zongming Guo. CVF 2017<br>
+26. Awesome Typography: Statistics-Based Text Effects TransferShuai Yang, Jiaying Liu∗, Zhouhui Lian and Zongming Guo. CVF 2017<br>
 [Source](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Awesome_Typography_Statistics-Based_CVPR_2017_paper.pdf) | [Code](https://github.com/williamyang1991/Text-Effects-Transfer)
 27. Scene Text Eraser by Toshiki Nakamura; Anna Zhu; Keiji Yanai; Seiichi Uchida. IEEE 2017<br>
 [Source](https://ieeexplore.ieee.org/abstract/document/8270072) | Code

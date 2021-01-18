@@ -38,6 +38,39 @@ This repository contains  Articles , Papers and Repositories for text font attri
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0950705119303740) | Code
 14. Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements by Yuto Shinahara; Takuro Karamatsu; Daisuke Harada; Kota Yamaguchi; Seiichi Uchida. IEEE 2019
 [Source](https://ieeexplore.ieee.org/abstract/document/8978038) | Code
+15.Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements by Yuto Shinahara; Takuro Karamatsu; Daisuke Harada; Kota Yamaguchi; Seiichi Uchida. IEEE 2019 <br>
+[Source](https://ieeexplore.ieee.org/abstract/document/8978038) | Code
+16. Character Image Synthesis Based on Selected Content and Referenced Style Embedding by Anna Zhu; Qiyang Zhang; Xiongbo Lu; Shengwu Xiong. IEEE 2019 <br>
+[Source](https://ieeexplore.ieee.org/abstract/document/8784736) | Code
+17. Word Level Font-to-Font Image Translation using Convolutional Recurrent Generative Adversarial Networks by Ankan Kumar Bhunia, Ayan Kumar Bhunia, Prithaj Banerjee, Aishik Konwer, Abir Bhowmick, Partha Pratim Roy, Umapada Pal. Arxiv 2018 <br>
+[Source](https://arxiv.org/abs/1801.07156) | Code
+18. Multi-Content GAN for Few-Shot Font Style Transfer by Samaneh Azadi, Matthew Fisher, Vladimir G. Kim, Zhaowen Wang, Eli Shechtman, Trevor Darrell. CVF 2018<br>
+[Source](https://openaccess.thecvf.com/content_cvpr_2018/html/Azadi_Multi-Content_GAN_for_CVPR_2018_paper.html) | Code
+19. Generating Handwritten Chinese Characters Using CycleGAN by Bo Chang; Qiong Zhang; Shenyi Pan; Lili Meng. IEEE 2018<br>
+[Source](https://ieeexplore.ieee.org/abstract/document/8354132) | Code
+20. Separating Style and Content for Generalized Style Transfer by Yexun Zhang, Ya Zhang, Wenbin Cai, Jie Chang. Arxiv 2018<br>
+[Source](https://arxiv.org/abs/1711.06454) | Code
+21. TET-GAN: Text Effects Transfer via Stylization and Destylization by Shuai Yang, Jiaying Liu, Wenjing Wang, Zongming Guo. Arxiv 2018<br>
+[Source](https://arxiv.org/abs/1812.06384) | [Code](https://github.com/williamyang1991/TET-GAN)
+22. Context-Aware Text-Based Binary Image Stylization and Synthesis by Shuai Yang, Jiaying Liu, Wenhan Yang, Zongming Guo. Arxiv 2018<br>
+[Source](https://arxiv.org/abs/1810.03767) | Code
+23. Text effects transfer via distribution-aware texture synthesis by ShuaiYang, Jiaying Liu, Zhouhui Lian, Zongming Guo. 2018 <br>
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1077314218301139) | Code
+24. Supplementary MaterialforMulti-Content GAN for Few-Shot Font Style Transfer. CVF 2018
+[Source](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/2342-supp.pdf) | Code
+25.  A Common Framework for Interactive Texture Transfer by Yifang Men, Zhouhui Lian, Yingmin Tang, Jianguo Xiao. CVF 2018<br>
+[Source](https://openaccess.thecvf.com/content_cvpr_2018/html/Men_A_Common_Framework_CVPR_2018_paper.html) | Code
+26. Convolutional Neural Networks for Font Classification by Chris Tensmeyer; Daniel Saunders; Tony Martinez. IEEE 2017<br>
+[Source](https://ieeexplore.ieee.org/document/8270095) | Code
+26.Awesome Typography: Statistics-Based Text Effects TransferShuai Yang, Jiaying Liu∗, Zhouhui Lian and Zongming Guo. CVF 2017<br>
+[Source](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Awesome_Typography_Statistics-Based_CVPR_2017_paper.pdf) | [Code](https://github.com/williamyang1991/Text-Effects-Transfer)
+27. Scene Text Eraser by Toshiki Nakamura; Anna Zhu; Keiji Yanai; Seiichi Uchida. IEEE 2017<br>
+[Source](https://ieeexplore.ieee.org/abstract/document/8270072) | Code
+28. Scene Text Detection via Holistic, Multi-Channel Prediction by Cong Yao, Xiang Bai, Nong Sang, Xinyu Zhou, Shuchang Zhou, Zhimin Cao. 2016<br>
+[Source](https://arxiv.org/abs/1606.09002) | Code
+29. DeepFont: Identify Your Font from An Image Zhangyang Wang, Jianchao Yang, Hailin Jin, Eli Shechtman, Aseem Agarwala, Jonathan Brandt, Thomas S. Huang. 2015<br>
+[Source](https://arxiv.org/abs/1507.03196) | Code
+  
 
 
 ## Journals 

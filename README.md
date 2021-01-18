@@ -16,6 +16,10 @@ This repository contains  Articles , Papers and Repositories for text font attri
 [Source](https://arxiv.org/abs/2001.04189) | Code
 7. Rethinking Text Segmentation: A Novel Dataset and A Text-Specific Refinement Approach by Xingqian Xu, Zhifei Zhang, Zhaowen Wang, Brian Price, Zhonghao Wang, Humphrey Shi. arxiv 2020 <br>
 [Source](https://arxiv.org/abs/2011.14021) | Code
+9. Exploring Font-independent Features for Scene Text Recognition by Yizhi  Wang, Zhouhui  Lian. 2020 <br>
+[Source](https://dl.acm.org/doi/abs/10.1145/3394171.3413592) | Code
+9. TE141K: Artistic Text Benchmark for Text Effect Transfer by Shuai Yang; Wenjing Wang; Jiaying Liu. IEEE 2020 <br>
+[Source](https://ieeexplore.ieee.org/abstract/document/9052477) | Code
 7. A Method for Scene Text Style Transfer by Gaojing ZhouEmail authorLei WangXi LiuYongsheng ZhouRui ZhangXiaolin Wei. Sringer 2020 <br>
 [Source](https://link.springer.com/chapter/10.1007/978-3-030-57058-3_39) | Code 
 7. Neural Style Difference Transfer and Its Application to Font Generation by Gantugs Atarsaikhan, Brian Kenji Iwana, Seiichi Uchida. arxiv 2020 <br>
@@ -32,7 +36,9 @@ This repository contains  Articles , Papers and Repositories for text font attri
 [Source](https://openaccess.thecvf.com/content_CVPR_2019/papers/Men_DynTypo_Example-Based_Dynamic_Text_Effects_Transfer_CVPR_2019_paper.pdf) | Code
 13. GlyphGAN: Style-consistent font generation based on generative adversarial network by Hideaki Hayashi, Kohtaro Abe, Seiichi Uchida. 2019<br>
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0950705119303740) | Code
-14.
+14. Serif or Sans: Visual Font Analytics on Book Covers and Online Advertisements by Yuto Shinahara; Takuro Karamatsu; Daisuke Harada; Kota Yamaguchi; Seiichi Uchida. IEEE 2019
+[Source](https://ieeexplore.ieee.org/abstract/document/8978038) | Code
+
 
 ## Journals 
 1. Few-Shot Text Style Transfer via Deep Feature Similarity by Anna Zhu; Xiongbo Lu; Xiang Bai; Seiichi Uchida; Brian Kenji Iwana; Shengwu Xiong. IEEE 2020 <br>

@@ -26,3 +26,6 @@ This repository contains  Articles , Papers and Repositories for text font attri
 ## Journals 
 1. Improving Font Effect Generation based on Pyramid Style Feature by Feiyu Zhang, Yi Yang, WeixingHuang,Guigang Zhang,and JianWang. 2020 <br>
 [Source](https://qrs20.techconf.org/download/QRS-IJPE/18_Improving%20Font%20Effect%20Generation%20based%20on%20Pyramid%20Style%20Feature.pdf)
+## Research Article
+1. Exploring Font-independent Features for Scene Text Recognition by Yizhi Wang, Zhouhui  Lian. 2020 <br>
+[Source](https://dl.acm.org/doi/abs/10.1145/3394171.3413592)
